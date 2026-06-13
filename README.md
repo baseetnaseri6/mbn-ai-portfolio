@@ -14,15 +14,15 @@ Built with modern web technologies, immersive interactions, intelligent chatbot 
 
 ### Main Interface - 01
 
-![Main Interface](screenshots/main-1.jpg)
+![Main Interface - 01](screenshots/main-1.jpg)
 
 ### Main Interface - 02
 
-![AI Operating System](screenshots/main-2.jpg)
+![Main Interface - 02](screenshots/main-2.jpg)
 
 ### Main Interface - 03
 
-![Dynamic Intelligence Dashboard](screenshots/main-3.jpg)
+![Main Interface - 03](screenshots/main-3.jpg)
 
 ### Professional Profile
 
